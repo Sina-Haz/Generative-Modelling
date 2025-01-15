@@ -1,0 +1,7 @@
+jax
+equinox
+torch
+matplotlib
+seaborn
+numpy
+tqdm
