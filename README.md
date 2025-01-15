@@ -1,5 +1,5 @@
 # Generative-Modelling
-
+A series of notebooks and code detailing how to model data distributions for generation
 
 Score based models (as inspired by these two blogs)
 1. [Generative Modeling by Estimating Gradients of the Data Distribution](http://yang-song.net/blog/2021/score/)
